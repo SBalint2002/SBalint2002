@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SBalint2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a Software Developer student.
 
-<!---
-SBalint2002/SBalint2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I learn the followings: 
+- C# (.net framework CLI, GUI)
+- Html/CSS + JavaScript with Node.js
+- Java
+- Android (Java)
+
+There are old School projects on my profile and newer projects.
